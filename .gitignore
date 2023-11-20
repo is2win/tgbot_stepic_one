@@ -1,0 +1,7 @@
+.env
+
+.mypy_cash/
+.vscode/
+venv/
+__pycash__/
+
