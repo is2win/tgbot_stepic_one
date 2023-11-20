@@ -5,3 +5,4 @@ from config_data.config import Config, load_config
 
 # Функция конфигурирования и запуска бота
 async def main() -> None:
+    pass
